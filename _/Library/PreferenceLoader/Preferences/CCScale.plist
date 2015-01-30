@@ -1,0 +1,10 @@
+{
+    entry = {
+	bundle = CCScale;
+	cell = PSLinkCell;
+	detail = CCScaleListController;
+	icon = CCScale.png;
+	isController = 1;
+	label = CCScale;
+    };
+}

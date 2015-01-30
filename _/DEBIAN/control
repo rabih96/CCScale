@@ -1,0 +1,10 @@
+Package: com.rabih96.ccscale
+Name: CCScale
+Depends: mobilesubstrate, preferenceloader, firmware (>=7.0), com.saurik.substrate.safemode
+Architecture: iphoneos-arm
+Description: Scale ControlCenter
+Maintainer: Rabih M
+Author: Rabih M
+Section: Tweaks
+Version: 1-1
+Installed-Size: 244
